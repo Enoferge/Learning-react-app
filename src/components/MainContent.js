@@ -6,6 +6,6 @@ function MainContent() {
             <p>This is where most of my content will go...</p>
         </div>
     )
-}
+} 
 
 export default MainContent;
