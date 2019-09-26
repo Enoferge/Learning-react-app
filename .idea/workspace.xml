@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c44fe7e-8b43-4740-a3df-ffb3166179bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/ContactCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Lesson21.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Lesson22.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Lesson23.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Lesson25.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MainContent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainContent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,8 +69,18 @@
       <workItem from="1568995271815" duration="43000" />
       <workItem from="1568995385856" duration="7713000" />
       <workItem from="1569176905546" duration="3981000" />
-      <workItem from="1569351903389" duration="1272000" />
+      <workItem from="1569351903389" duration="5827000" />
+      <workItem from="1569433451241" duration="2213000" />
+      <workItem from="1569501773431" duration="3055000" />
     </task>
+    <task id="LOCAL-00001" summary="lesson 21">
+      <created>1569353339990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569353339990</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson 21" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 21" />
   </component>
 </project>
